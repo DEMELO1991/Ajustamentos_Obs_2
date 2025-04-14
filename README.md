@@ -1,7 +1,6 @@
 # Ajustamento de Observações com Controle de Qualidade
 
-Este repositório foi criado para desenvolver e apresentar um projeto individual da disciplina de Ajustamento de Observações e Geodésia Aplicada.
-
+Este repositório foi criado para desenvolver e apresentar um projeto individual da disciplina de Ajustamento de Observações 2
 ## Autora
 
 Andreza dos Santos Rodrigues de Melo
